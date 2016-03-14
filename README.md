@@ -28,5 +28,8 @@ This link is recognised by antivirus (at least Kaspersky) as being potentialy da
 the file is not recognised as a virus so it.
 
 An investigator will find that executable file is a .net application. The role of the application is to extract and launch some trojan code
-burned inside the 
+burned inside. The decompiler show this code as base64 encoded string encrypted (the main virus  ) with Encoding.Utf8.GetBytes("AzWJrYnj") as keycode.
+
+
+
 
