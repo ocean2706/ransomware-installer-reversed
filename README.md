@@ -1,4 +1,5 @@
-# ransomware-installer-reversed
+# Digging through the rabbit hole
+
 reversed code for a trojan ransomware installer found on a freelancer site
 
 ## How the virus works
