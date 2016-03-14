@@ -1,0 +1,7 @@
+C:\Users\george.bungarzescu\Desktop\virus\dot_peack_decompiled\VirusDecompiler\bin\Debug\VirusDecompiler.exe
+C:\Users\george.bungarzescu\Desktop\virus\dot_peack_decompiled\VirusDecompiler\bin\Debug\VirusDecompiler.pdb
+C:\Users\george.bungarzescu\Desktop\virus\dot_peack_decompiled\VirusDecompiler\obj\Debug\VirusDecompiler.Properties.Resources.resources
+C:\Users\george.bungarzescu\Desktop\virus\dot_peack_decompiled\VirusDecompiler\obj\Debug\VirusDecompiler.csproj.GenerateResource.Cache
+C:\Users\george.bungarzescu\Desktop\virus\dot_peack_decompiled\VirusDecompiler\obj\Debug\VirusDecompiler.exe
+C:\Users\george.bungarzescu\Desktop\virus\dot_peack_decompiled\VirusDecompiler\obj\Debug\VirusDecompiler.pdb
+C:\Users\george.bungarzescu\Desktop\virus\dot_peack_decompiled\VirusDecompiler\obj\Debug\VirusDecompiler.csprojResolveAssemblyReference.cache
