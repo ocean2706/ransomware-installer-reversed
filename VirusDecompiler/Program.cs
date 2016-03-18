@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Windows.Forms;
@@ -14,8 +15,9 @@ namespace VirusDecompiler
         [STAThread]
         static void Main()
         {
-            ViralCodes.ExtractAllToFiles();
-
+            //ViralCodes.ExtractAllToFiles();
+            var insideDat = File.ReadAllText("HuuGhrjVBt_decode.txt");
+            File.WriteAllBytes("encodedresource_HuuGhrjVBt.txt", Convert.FromBase64String(insideDat));
            
         }
     }
